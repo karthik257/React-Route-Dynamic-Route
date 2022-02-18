@@ -1,0 +1,28 @@
+.containerDiv{
+    display: flex;
+    /* border: 2px solid red; */
+    flex-direction: column;
+    height: 200px;
+    justify-content: space-around;
+    font-size: larger;
+    margin-top: 2em;
+}
+div{
+    background-color: aquamarine;
+    color: slateblue;
+}
+
+.mainDiv{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 65vh;
+}
+
+button{
+    background-color: burlywood;
+    color: darkgreen;
+    border-radius: 50px;
+    outline: none;
+    border-width: 0;
+    cursor: pointer;
+}

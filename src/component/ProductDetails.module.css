@@ -1,0 +1,19 @@
+h2{
+    font-size: 50px;
+    text-align: center;
+    padding-bottom:83vh;
+}
+
+.containerDiv{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+    height: 500px;
+    justify-content: space-evenly;
+}
+
+img{
+    height: 80vh;
+    width: 100%;
+}
